@@ -1,0 +1,1083 @@
+Ready...
+Loop no: 0
+Number of obstacles: 0
+----------------------------------
+Loop no: 1
+Number of obstacles: 0
+----------------------------------
+Loop no: 2
+Number of obstacles: 0
+----------------------------------
+Loop no: 3
+Number of obstacles: 0
+----------------------------------
+Loop no: 4
+Number of obstacles: 0
+----------------------------------
+Loop no: 5
+Number of obstacles: 0
+----------------------------------
+Loop no: 6
+Number of obstacles: 0
+----------------------------------
+Loop no: 7
+Number of obstacles: 0
+----------------------------------
+Loop no: 8
+Number of obstacles: 0
+----------------------------------
+Loop no: 9
+Number of obstacles: 0
+----------------------------------
+Loop no: 10
+Number of obstacles: 0
+----------------------------------
+Loop no: 11
+Number of obstacles: 0
+----------------------------------
+Loop no: 12
+Number of obstacles: 0
+----------------------------------
+Loop no: 13
+Number of obstacles: 0
+----------------------------------
+Loop no: 14
+Number of obstacles: 0
+----------------------------------
+Loop no: 15
+Number of obstacles: 0
+----------------------------------
+Loop no: 16
+Number of obstacles: 0
+----------------------------------
+Loop no: 17
+Number of obstacles: 0
+----------------------------------
+Loop no: 18
+Number of obstacles: 0
+----------------------------------
+Loop no: 19
+Number of obstacles: 0
+----------------------------------
+Loop no: 20
+Number of obstacles: 0
+----------------------------------
+Loop no: 21
+Number of obstacles: 0
+----------------------------------
+Loop no: 22
+Number of obstacles: 0
+----------------------------------
+Loop no: 23
+Number of obstacles: 0
+----------------------------------
+Loop no: 24
+Number of obstacles: 0
+----------------------------------
+Loop no: 25
+Number of obstacles: 0
+----------------------------------
+Loop no: 26
+Number of obstacles: 0
+----------------------------------
+Loop no: 27
+Number of obstacles: 0
+----------------------------------
+Loop no: 28
+Number of obstacles: 0
+----------------------------------
+Loop no: 29
+Number of obstacles: 0
+----------------------------------
+Loop no: 30
+Number of obstacles: 1
+o[0]: mix=-1305, max=-1343, miy=-718, may=-707, sx=-2211, ex=-2190, p=4, mid=1490, mad=1518
+----------------------------------
+Loop no: 31
+Number of obstacles: 1
+o[0]: mix=-1352, max=-1386, miy=-723, may=-645, sx=-2266, ex=-2204, p=10, mid=1504, mad=1534
+----------------------------------
+Loop no: 32
+Number of obstacles: 1
+o[0]: mix=-1409, max=-1441, miy=-645, may=-576, sx=-2321, ex=-2272, p=9, mid=1509, mad=1552
+----------------------------------
+Loop no: 33
+Number of obstacles: 1
+o[0]: mix=-1471, max=-1474, miy=-516, may=-507, sx=-2364, ex=-2358, p=2, mid=1559, mad=1559
+----------------------------------
+Loop no: 34
+Number of obstacles: 1
+o[0]: mix=-1469, max=-1489, miy=-465, may=-412, sx=-2409, ex=-2383, p=7, mid=1513, mad=1546
+----------------------------------
+Loop no: 35
+Number of obstacles: 1
+o[0]: mix=-1458, max=-1502, miy=-394, may=-308, sx=-2448, ex=-2413, p=11, mid=1458, mad=1534
+----------------------------------
+Loop no: 36
+Number of obstacles: 1
+o[0]: mix=-1429, max=-1463, miy=-284, may=-207, sx=-2475, ex=-2451, p=10, mid=1444, mad=1478
+----------------------------------
+Loop no: 37
+Number of obstacles: 1
+o[0]: mix=-1506, max=-1469, miy=-232, may=-126, sx=-2490, ex=-2470, p=12, mid=1449, mad=1524
+----------------------------------
+Loop no: 38
+Number of obstacles: 1
+o[0]: mix=-1513, max=-1492, miy=-130, may=-36, sx=-2499, ex=-2490, p=11, mid=1449, mad=1519
+----------------------------------
+Loop no: 39
+Number of obstacles: 1
+o[0]: mix=-1497, max=-1548, miy=-36, may=47, sx=-2498, ex=-2499, p=10, mid=1457, mad=1549
+----------------------------------
+Loop no: 40
+Number of obstacles: 1
+o[0]: mix=-1516, max=-1531, miy=74, may=150, sx=-2487, ex=-2496, p=9, mid=1491, mad=1539
+----------------------------------
+Loop no: 41
+Number of obstacles: 1
+o[0]: mix=-1492, max=-1480, miy=174, may=256, sx=-2463, ex=-2483, p=10, mid=1473, mad=1503
+----------------------------------
+Loop no: 42
+Number of obstacles: 1
+o[0]: mix=-1503, max=-1475, miy=232, may=360, sx=-2428, ex=-2470, p=15, mid=1473, mad=1521
+----------------------------------
+Loop no: 43
+Number of obstacles: 1
+o[0]: mix=-1502, max=-1445, miy=298, may=438, sx=-2392, ex=-2451, p=17, mid=1470, mad=1532
+----------------------------------
+Loop no: 44
+Number of obstacles: 1
+o[0]: mix=-1488, max=-1401, miy=363, may=491, sx=-2358, ex=-2428, p=17, mid=1444, mad=1532
+----------------------------------
+Loop no: 45
+Number of obstacles: 1
+o[0]: mix=-1438, max=-1352, miy=416, may=541, sx=-2321, ex=-2401, p=17, mid=1417, mad=1498
+----------------------------------
+Loop no: 46
+Number of obstacles: 1
+o[0]: mix=-1384, max=-1290, miy=465, may=572, sx=-2285, ex=-2358, p=14, mid=1373, mad=1467
+----------------------------------
+Loop no: 47
+Number of obstacles: 1
+o[0]: mix=-1253, max=-1216, miy=510, may=603, sx=-2239, ex=-2315, p=13, mid=1327, mad=1358
+----------------------------------
+Loop no: 48
+Number of obstacles: 1
+o[0]: mix=-1212, max=-1161, miy=540, may=658, sx=-2175, ex=-2279, p=16, mid=1273, mad=1335
+----------------------------------
+Loop no: 49
+Number of obstacles: 1
+o[0]: mix=-1216, max=-1078, miy=568, may=682, sx=-2112, ex=-2253, p=20, mid=1233, mad=1350
+----------------------------------
+Loop no: 50
+Number of obstacles: 1
+o[0]: mix=-1136, max=-1006, miy=596, may=717, sx=-2035, ex=-2204, p=22, mid=1192, mad=1289
+----------------------------------
+Loop no: 51
+Number of obstacles: 1
+o[0]: mix=-1080, max=-926, miy=635, may=750, sx=-1942, ex=-2136, p=23, mid=1148, mad=1264
+----------------------------------
+Loop no: 52
+Number of obstacles: 1
+o[0]: mix=-946, max=-863, miy=685, may=811, sx=-1821, ex=-1998, p=19, mid=1103, mad=1185
+----------------------------------
+Loop no: 53
+Number of obstacles: 1
+o[0]: mix=-831, max=-821, miy=726, may=895, sx=-1690, ex=-1872, p=18, mid=1065, mad=1215
+----------------------------------
+Loop no: 54
+Number of obstacles: 1
+o[0]: mix=-757, max=-681, miy=754, may=896, sx=-1513, ex=-1723, p=19, mid=1018, mad=1126
+----------------------------------
+Loop no: 55
+Number of obstacles: 1
+o[0]: mix=-715, max=-550, miy=768, may=869, sx=-1337, ex=-1656, p=27, mid=970, mad=1080
+----------------------------------
+Loop no: 56
+Number of obstacles: 1
+o[0]: mix=-646, max=-456, miy=767, may=879, sx=-1151, ex=-1513, p=29, mid=924, mad=1067
+----------------------------------
+Loop no: 57
+Number of obstacles: 1
+o[0]: mix=-562, max=-381, miy=761, may=889, sx=-984, ex=-1401, p=32, mid=874, mad=1003
+----------------------------------
+Loop no: 58
+Number of obstacles: 1
+o[0]: mix=-477, max=-273, miy=752, may=864, sx=-755, ex=-1245, p=36, mid=819, mad=958
+----------------------------------
+Loop no: 59
+Number of obstacles: 1
+o[0]: mix=-332, max=-181, miy=730, may=831, sx=-532, ex=-999, p=33, mid=772, mad=851
+----------------------------------
+Loop no: 60
+Number of obstacles: 2
+o[0]: mix=-146, max=-116, miy=734, may=783, sx=-366, ex=-472, p=8, mid=744, mad=792
+o[1]: mix=-250, max=-171, miy=711, may=762, sx=-547, ex=-798, p=18, mid=740, mad=783
+----------------------------------
+Loop no: 61
+Number of obstacles: 1
+o[0]: mix=-163, max=-13, miy=625, may=730, sx=-46, ex=-562, p=35, mid=634, mad=731
+----------------------------------
+Loop no: 62
+Number of obstacles: 1
+o[0]: mix=-100, max=95, miy=587, may=701, sx=336, ex=-366, p=46, mid=588, mad=708
+----------------------------------
+Loop no: 63
+Number of obstacles: 2
+o[0]: mix=15, max=186, miy=580, may=674, sx=666, ex=61, p=41, mid=586, mad=700
+o[1]: mix=-26, max=-7, miy=633, may=706, sx=-30, ex=-92, p=5, mid=634, mad=707
+----------------------------------
+Loop no: 64
+Number of obstacles: 1
+o[0]: mix=69, max=254, miy=577, may=648, sx=914, ex=245, p=45, mid=598, mad=697
+----------------------------------
+Loop no: 65
+Number of obstacles: 1
+o[0]: mix=137, max=322, miy=596, may=691, sx=1124, ex=487, p=45, mid=638, mad=717
+----------------------------------
+Loop no: 66
+Number of obstacles: 2
+o[0]: mix=295, max=394, miy=614, may=689, sx=1285, ex=984, p=21, mid=711, mad=767
+o[1]: mix=250, max=264, miy=711, may=775, sx=871, ex=769, p=6, mid=757, mad=815
+----------------------------------
+Loop no: 67
+Number of obstacles: 1
+o[0]: mix=395, max=447, miy=667, may=718, sx=1376, ex=1205, p=13, mid=796, mad=820
+----------------------------------
+Loop no: 68
+Number of obstacles: 2
+o[0]: mix=483, max=538, miy=701, may=773, sx=1501, ex=1324, p=15, mid=870, mad=912
+o[1]: mix=447, max=442, miy=866, may=917, sx=1137, ex=1096, p=4, mid=973, mad=1021
+----------------------------------
+Loop no: 69
+Number of obstacles: 2
+o[0]: mix=520, max=585, miy=722, may=769, sx=1574, ex=1401, p=15, mid=929, mad=948
+o[1]: mix=489, max=500, miy=895, may=901, sx=1218, ex=1191, p=3, mid=1026, mad=1026
+----------------------------------
+Loop no: 70
+Number of obstacles: 2
+o[0]: mix=576, max=671, miy=729, may=758, sx=1656, ex=1439, p=7, mid=958, mad=1013
+o[1]: mix=522, max=542, miy=876, may=883, sx=1311, ex=1272, p=4, mid=1026, mad=1034
+----------------------------------
+Loop no: 71
+Number of obstacles: 3
+o[0]: mix=684, max=702, miy=747, may=764, sx=1712, ex=1667, p=5, mid=1019, mad=1026
+o[1]: mix=636, max=641, miy=781, may=785, sx=1585, ex=1574, p=2, mid=1011, mad=1011
+o[2]: mix=569, max=583, miy=828, may=898, sx=1439, ex=1337, p=9, mid=1008, mad=1064
+----------------------------------
+Loop no: 72
+Number of obstacles: 2
+o[0]: mix=690, max=699, miy=772, may=780, sx=1678, ex=1656, p=3, mid=1042, mad=1042
+o[1]: mix=594, max=596, miy=825, may=889, sx=1464, ex=1388, p=7, mid=1018, mad=1070
+----------------------------------
+Loop no: 73
+Number of obstacles: 2
+o[0]: mix=716, max=764, miy=716, may=736, sx=1800, ex=1745, p=6, mid=1024, mad=1062
+o[1]: mix=601, max=671, miy=741, may=821, sx=1667, ex=1476, p=15, mid=972, mad=1018
+----------------------------------
+Loop no: 74
+Number of obstacles: 3
+o[0]: mix=742, max=754, miy=675, may=690, sx=1862, ex=1831, p=4, mid=1013, mad=1014
+o[1]: mix=639, max=724, miy=686, may=719, sx=1778, ex=1678, p=9, mid=949, mad=1018
+o[2]: mix=646, max=670, miy=789, may=797, sx=1609, ex=1574, p=4, mid=1026, mad=1042
+----------------------------------
+Loop no: 75
+Number of obstacles: 1
+o[0]: mix=677, max=847, miy=610, may=756, sx=1989, ex=1667, p=32, mid=939, mad=1065
+----------------------------------
+Loop no: 76
+Number of obstacles: 1
+o[0]: mix=709, max=907, miy=563, may=709, sx=2061, ex=1767, p=31, mid=938, mad=1100
+----------------------------------
+Loop no: 77
+Number of obstacles: 1
+o[0]: mix=724, max=819, miy=540, may=680, sx=2087, ex=1821, p=29, mid=938, mad=994
+----------------------------------
+Loop no: 78
+Number of obstacles: 1
+o[0]: mix=723, max=832, miy=520, may=655, sx=2120, ex=1852, p=30, mid=921, mad=982
+----------------------------------
+Loop no: 79
+Number of obstacles: 1
+o[0]: mix=710, max=832, miy=512, may=644, sx=2128, ex=1852, p=31, mid=903, mad=978
+----------------------------------
+Loop no: 80
+Number of obstacles: 1
+o[0]: mix=671, max=793, miy=509, may=623, sx=2103, ex=1831, p=30, mid=871, mad=943
+----------------------------------
+Loop no: 81
+Number of obstacles: 1
+o[0]: mix=662, max=744, miy=503, may=670, sx=2043, ex=1756, p=30, mid=827, mad=943
+----------------------------------
+Loop no: 82
+Number of obstacles: 1
+o[0]: mix=555, max=715, miy=488, may=612, sx=2017, ex=1678, p=34, mid=767, mad=887
+----------------------------------
+Loop no: 83
+Number of obstacles: 1
+o[0]: mix=490, max=647, miy=477, may=597, sx=1961, ex=1585, p=34, mid=705, mad=825
+----------------------------------
+Loop no: 84
+Number of obstacles: 1
+o[0]: mix=424, max=616, miy=467, may=579, sx=1932, ex=1476, p=42, mid=657, mad=797
+----------------------------------
+Loop no: 85
+Number of obstacles: 1
+o[0]: mix=362, max=560, miy=472, may=588, sx=1831, ex=1311, p=45, mid=624, mad=765
+----------------------------------
+Loop no: 86
+Number of obstacles: 1
+o[0]: mix=295, max=466, miy=491, may=595, sx=1678, ex=1110, p=45, mid=603, mad=694
+----------------------------------
+Loop no: 87
+Number of obstacles: 2
+o[0]: mix=356, max=407, miy=552, may=576, sx=1476, ex=1337, p=12, mid=666, mad=690
+o[1]: mix=221, max=323, miy=527, may=631, sx=1285, ex=827, p=34, mid=597, mad=669
+----------------------------------
+Loop no: 88
+Number of obstacles: 1
+o[0]: mix=134, max=322, miy=585, may=676, sx=1124, ex=487, p=44, mid=620, mad=717
+----------------------------------
+Loop no: 89
+Number of obstacles: 1
+o[0]: mix=49, max=250, miy=624, may=725, sx=856, ex=168, p=47, mid=640, mad=732
+----------------------------------
+Loop no: 90
+Number of obstacles: 1
+o[0]: mix=-32, max=184, miy=650, may=757, sx=592, ex=-107, p=47, mid=654, mad=779
+----------------------------------
+Loop no: 91
+Number of obstacles: 1
+o[0]: mix=-119, max=106, miy=671, may=805, sx=336, ex=-366, p=47, mid=672, mad=814
+----------------------------------
+Loop no: 92
+Number of obstacles: 1
+o[0]: mix=-183, max=14, miy=676, may=769, sx=46, ex=-607, p=44, mid=685, mad=769
+----------------------------------
+Loop no: 93
+Number of obstacles: 1
+o[0]: mix=-293, max=-87, miy=677, may=786, sx=-275, ex=-914, p=44, mid=708, mad=802
+----------------------------------
+Loop no: 94
+Number of obstacles: 1
+o[0]: mix=-376, max=-213, miy=699, may=830, sx=-622, ex=-1151, p=38, mid=763, mad=857
+----------------------------------
+Loop no: 95
+Number of obstacles: 2
+o[0]: mix=-369, max=-354, miy=771, may=828, sx=-984, ex=-1068, p=7, mid=851, mad=901
+o[1]: mix=-474, max=-408, miy=728, may=764, sx=-1178, ex=-1363, p=13, mid=846, mad=875
+----------------------------------
+Loop no: 96
+Number of obstacles: 2
+o[0]: mix=-515, max=-493, miy=760, may=847, sx=-1258, ex=-1401, p=10, mid=919, mad=981
+o[1]: mix=-621, max=-590, miy=720, may=737, sx=-1562, ex=-1632, p=7, mid=941, mad=952
+----------------------------------
+Loop no: 97
+Number of obstacles: 2
+o[0]: mix=-584, max=-569, miy=808, may=819, sx=-1426, ex=-1464, p=4, mid=998, mad=998
+o[1]: mix=-722, max=-685, miy=679, may=702, sx=-1745, ex=-1810, p=7, mid=967, mad=998
+----------------------------------
+Loop no: 98
+Number of obstacles: 2
+o[0]: mix=-694, max=-683, miy=856, may=865, sx=-1550, ex=-1574, p=3, mid=1103, mad=1103
+o[1]: mix=-811, max=-788, miy=709, may=723, sx=-1842, ex=-1882, p=5, mid=1070, mad=1078
+----------------------------------
+Loop no: 99
+Number of obstacles: 2
+o[0]: mix=-787, max=-781, miy=901, may=906, sx=-1632, ex=-1644, p=2, mid=1197, mad=1197
+o[1]: mix=-893, max=-884, miy=742, may=753, sx=-1903, ex=-1922, p=3, mid=1162, mad=1162
+----------------------------------
+Loop no: 100
+Number of obstacles: 0
+----------------------------------
+Loop no: 101
+Number of obstacles: 0
+----------------------------------
+Loop no: 102
+Number of obstacles: 0
+----------------------------------
+Loop no: 103
+Number of obstacles: 0
+----------------------------------
+Loop no: 104
+Number of obstacles: 0
+----------------------------------
+Loop no: 105
+Number of obstacles: 0
+----------------------------------
+Loop no: 106
+Number of obstacles: 0
+----------------------------------
+Loop no: 107
+Number of obstacles: 0
+----------------------------------
+Loop no: 108
+Number of obstacles: 0
+----------------------------------
+Loop no: 109
+Number of obstacles: 0
+----------------------------------
+Loop no: 110
+Number of obstacles: 0
+----------------------------------
+Loop no: 111
+Number of obstacles: 0
+----------------------------------
+Loop no: 112
+Number of obstacles: 0
+----------------------------------
+Loop no: 113
+Number of obstacles: 0
+----------------------------------
+Loop no: 114
+Number of obstacles: 0
+----------------------------------
+Loop no: 115
+Number of obstacles: 0
+----------------------------------
+Loop no: 116
+Number of obstacles: 0
+----------------------------------
+Loop no: 117
+Number of obstacles: 0
+----------------------------------
+Loop no: 118
+Number of obstacles: 0
+----------------------------------
+Loop no: 119
+Number of obstacles: 0
+----------------------------------
+Loop no: 120
+Number of obstacles: 0
+----------------------------------
+Loop no: 121
+Number of obstacles: 0
+----------------------------------
+Loop no: 122
+Number of obstacles: 0
+----------------------------------
+Loop no: 123
+Number of obstacles: 0
+----------------------------------
+Loop no: 124
+Number of obstacles: 0
+----------------------------------
+Loop no: 125
+Number of obstacles: 0
+----------------------------------
+Loop no: 126
+Number of obstacles: 0
+----------------------------------
+Loop no: 127
+Number of obstacles: 1
+o[0]: mix=-1451, max=-1415, miy=1147, may=1191, sx=-1912, ex=-1961, p=6, mid=1848, mad=1850
+----------------------------------
+Loop no: 128
+Number of obstacles: 1
+o[0]: mix=-1504, max=-1433, miy=1073, may=1161, sx=-1942, ex=-2035, p=11, mid=1827, mad=1848
+----------------------------------
+Loop no: 129
+Number of obstacles: 1
+o[0]: mix=-1521, max=-1450, miy=1002, may=1132, sx=-1970, ex=-2087, p=14, mid=1802, mad=1840
+----------------------------------
+Loop no: 130
+Number of obstacles: 1
+o[0]: mix=-1538, max=-1487, miy=934, may=1061, sx=-2035, ex=-2136, p=13, mid=1769, mad=1827
+----------------------------------
+Loop no: 131
+Number of obstacles: 1
+o[0]: mix=-1537, max=-1491, miy=876, may=970, sx=-2095, ex=-2167, p=10, mid=1733, mad=1779
+----------------------------------
+Loop no: 132
+Number of obstacles: 1
+o[0]: mix=-1491, max=-1460, miy=809, may=850, sx=-2159, ex=-2197, p=6, mid=1679, mad=1697
+----------------------------------
+Loop no: 133
+Number of obstacles: 1
+o[0]: mix=-1490, max=-1446, miy=727, may=807, sx=-2182, ex=-2246, p=10, mid=1626, mad=1659
+----------------------------------
+Loop no: 134
+Number of obstacles: 1
+o[0]: mix=-1485, max=-1440, miy=658, may=769, sx=-2204, ex=-2285, p=13, mid=1588, mad=1633
+----------------------------------
+Loop no: 135
+Number of obstacles: 1
+o[0]: mix=-1497, max=-1438, miy=598, may=712, sx=-2239, ex=-2321, p=14, mid=1565, mad=1613
+----------------------------------
+Loop no: 136
+Number of obstacles: 1
+o[0]: mix=-1530, max=-1456, miy=547, may=656, sx=-2279, ex=-2353, p=14, mid=1547, mad=1625
+----------------------------------
+Loop no: 137
+Number of obstacles: 1
+o[0]: mix=-1528, max=-1487, miy=484, may=616, sx=-2309, ex=-2383, p=15, mid=1539, mad=1610
+----------------------------------
+Loop no: 138
+Number of obstacles: 1
+o[0]: mix=-1547, max=-1478, miy=419, may=488, sx=-2373, ex=-2409, p=9, mid=1536, mad=1606
+----------------------------------
+Loop no: 139
+Number of obstacles: 1
+o[0]: mix=-1538, max=-1488, miy=335, may=382, sx=-2421, ex=-2442, p=7, mid=1537, mad=1575
+----------------------------------
+Loop no: 140
+Number of obstacles: 1
+o[0]: mix=-1554, max=-1517, miy=250, may=301, sx=-2451, ex=-2468, p=7, mid=1541, mad=1574
+----------------------------------
+Loop no: 141
+Number of obstacles: 1
+o[0]: mix=-1544, max=-1584, miy=152, may=264, sx=-2465, ex=-2487, p=12, mid=1534, mad=1606
+----------------------------------
+Loop no: 142
+Number of obstacles: 1
+o[0]: mix=-1606, max=-1579, miy=69, may=184, sx=-2483, ex=-2497, p=13, mid=1534, mad=1608
+----------------------------------
+Loop no: 143
+Number of obstacles: 1
+o[0]: mix=-1579, max=-1597, miy=-9, may=127, sx=-2492, ex=-2499, p=15, mid=1526, mad=1603
+----------------------------------
+Loop no: 144
+Number of obstacles: 1
+o[0]: mix=-1575, max=-1598, miy=-67, may=78, sx=-2496, ex=-2497, p=16, mid=1513, mad=1600
+----------------------------------
+Loop no: 145
+Number of obstacles: 1
+o[0]: mix=-1520, max=-1533, miy=-84, may=-9, sx=-2499, ex=-2496, p=9, mid=1501, mad=1534
+----------------------------------
+Loop no: 146
+Number of obstacles: 1
+o[0]: mix=-1474, max=-1489, miy=-136, may=-73, sx=-2496, ex=-2489, p=8, mid=1473, mad=1491
+----------------------------------
+Loop no: 147
+Number of obstacles: 1
+o[0]: mix=-1506, max=-1451, miy=-185, may=-107, sx=-2493, ex=-2481, p=9, mid=1445, mad=1518
+----------------------------------
+Loop no: 148
+Number of obstacles: 1
+o[0]: mix=-1440, max=-1439, miy=-268, may=-150, sx=-2486, ex=-2457, p=14, mid=1424, mad=1465
+----------------------------------
+Loop no: 149
+Number of obstacles: 1
+o[0]: mix=-1480, max=-1420, miy=-341, may=-192, sx=-2477, ex=-2435, p=16, mid=1414, mad=1519
+----------------------------------
+Loop no: 150
+Number of obstacles: 1
+o[0]: mix=-1478, max=-1464, miy=-399, may=-235, sx=-2468, ex=-2413, p=18, mid=1414, mad=1531
+----------------------------------
+Loop no: 151
+Number of obstacles: 1
+o[0]: mix=-1417, max=-1501, miy=-429, may=-279, sx=-2457, ex=-2392, p=19, mid=1414, mad=1527
+----------------------------------
+Loop no: 152
+Number of obstacles: 1
+o[0]: mix=-1390, max=-1463, miy=-478, may=-344, sx=-2432, ex=-2364, p=17, mid=1429, mad=1504
+----------------------------------
+Loop no: 153
+Number of obstacles: 1
+o[0]: mix=-1409, max=-1407, miy=-553, may=-408, sx=-2401, ex=-2326, p=16, mid=1440, mad=1514
+----------------------------------
+Loop no: 154
+Number of obstacles: 1
+o[0]: mix=-1413, max=-1505, miy=-626, may=-470, sx=-2378, ex=-2285, p=18, mid=1452, mad=1582
+----------------------------------
+Loop no: 155
+Number of obstacles: 1
+o[0]: mix=-1424, max=-1424, miy=-684, may=-519, sx=-2348, ex=-2253, p=17, mid=1468, mad=1580
+----------------------------------
+Loop no: 156
+Number of obstacles: 1
+o[0]: mix=-1415, max=-1433, miy=-701, may=-552, sx=-2332, ex=-2239, p=16, mid=1500, mad=1580
+----------------------------------
+Loop no: 157
+Number of obstacles: 1
+o[0]: mix=-1446, max=-1470, miy=-695, may=-546, sx=-2343, ex=-2253, p=16, mid=1534, mad=1605
+----------------------------------
+Loop no: 158
+Number of obstacles: 1
+o[0]: mix=-1491, max=-1520, miy=-660, may=-533, sx=-2358, ex=-2285, p=14, mid=1572, mad=1631
+----------------------------------
+Loop no: 159
+Number of obstacles: 1
+o[0]: mix=-1546, max=-1566, miy=-618, may=-506, sx=-2378, ex=-2321, p=12, mid=1603, mad=1666
+----------------------------------
+Loop no: 160
+Number of obstacles: 1
+o[0]: mix=-1588, max=-1616, miy=-546, may=-488, sx=-2392, ex=-2364, p=7, mid=1649, mad=1689
+----------------------------------
+Loop no: 161
+Number of obstacles: 1
+o[0]: mix=-1631, max=-1637, miy=-494, may=-474, sx=-2401, ex=-2392, p=3, mid=1705, mad=1705
+----------------------------------
+Loop no: 162
+Number of obstacles: 1
+o[0]: mix=-1656, max=-1663, miy=-469, may=-438, sx=-2417, ex=-2405, p=4, mid=1720, mad=1722
+----------------------------------
+Loop no: 163
+Number of obstacles: 1
+o[0]: mix=-1668, max=-1675, miy=-439, may=-408, sx=-2428, ex=-2417, p=4, mid=1717, mad=1725
+----------------------------------
+Loop no: 164
+Number of obstacles: 0
+----------------------------------
+Loop no: 165
+Number of obstacles: 0
+----------------------------------
+Loop no: 166
+Number of obstacles: 0
+----------------------------------
+Loop no: 167
+Number of obstacles: 0
+----------------------------------
+Loop no: 168
+Number of obstacles: 0
+----------------------------------
+Loop no: 169
+Number of obstacles: 0
+----------------------------------
+Loop no: 170
+Number of obstacles: 1
+o[0]: mix=-1467, max=-1470, miy=-90, may=-63, sx=-2497, ex=-2495, p=2, mid=1470, mad=1472
+----------------------------------
+Loop no: 171
+Number of obstacles: 1
+o[0]: mix=-1425, max=-1439, miy=-70, may=44, sx=-2498, ex=-2496, p=6, mid=1427, mad=1440
+----------------------------------
+Loop no: 172
+Number of obstacles: 1
+o[0]: mix=-1421, max=-1405, miy=-26, may=95, sx=-2494, ex=-2499, p=10, mid=1391, mad=1422
+----------------------------------
+Loop no: 173
+Number of obstacles: 0
+----------------------------------
+Loop no: 174
+Number of obstacles: 0
+----------------------------------
+Loop no: 175
+Number of obstacles: 1
+o[0]: mix=-1303, max=-1299, miy=301, may=317, sx=-2428, ex=-2435, p=3, mid=1338, mad=1338
+----------------------------------
+Loop no: 176
+Number of obstacles: 1
+o[0]: mix=-1314, max=-1277, miy=286, may=404, sx=-2383, ex=-2442, p=7, mid=1307, mad=1345
+----------------------------------
+Loop no: 177
+Number of obstacles: 1
+o[0]: mix=-1293, max=-1208, miy=323, may=432, sx=-2353, ex=-2425, p=9, mid=1271, mad=1333
+----------------------------------
+Loop no: 178
+Number of obstacles: 2
+o[0]: mix=-1181, max=-1172, miy=455, may=477, sx=-2315, ex=-2332, p=4, mid=1266, mad=1266
+o[1]: mix=-1235, max=-1214, miy=366, may=384, sx=-2383, ex=-2396, p=4, mid=1274, mad=1289
+----------------------------------
+Loop no: 179
+Number of obstacles: 1
+o[0]: mix=-1160, max=-1158, miy=375, may=398, sx=-2364, ex=-2378, p=4, mid=1220, mad=1225
+----------------------------------
+Loop no: 180
+Number of obstacles: 1
+o[0]: mix=-1165, max=-1163, miy=401, may=408, sx=-2358, ex=-2364, p=2, mid=1233, mad=1233
+----------------------------------
+Loop no: 181
+Number of obstacles: 1
+o[0]: mix=-1056, max=-1047, miy=452, may=472, sx=-2279, ex=-2297, p=4, mid=1149, mad=1149
+----------------------------------
+Loop no: 182
+Number of obstacles: 3
+o[0]: mix=-954, max=-976, miy=532, may=577, sx=-2152, ex=-2182, p=5, mid=1093, mad=1134
+o[1]: mix=-973, max=-970, miy=453, may=459, sx=-2259, ex=-2266, p=2, mid=1074, mad=1074
+o[2]: mix=-1064, max=-1026, miy=384, may=403, sx=-2326, ex=-2348, p=5, mid=1100, mad=1133
+----------------------------------
+Loop no: 183
+Number of obstacles: 2
+o[0]: mix=-908, max=-908, miy=471, may=559, sx=-2128, ex=-2219, p=13, mid=1000, mad=1067
+o[1]: mix=-1019, max=-962, miy=383, may=412, sx=-2297, ex=-2332, p=7, mid=1047, mad=1093
+----------------------------------
+Loop no: 184
+Number of obstacles: 1
+o[0]: mix=-943, max=-893, miy=397, may=573, sx=-2103, ex=-2303, p=29, mid=939, mad=1062
+----------------------------------
+Loop no: 185
+Number of obstacles: 1
+o[0]: mix=-929, max=-801, miy=397, may=535, sx=-2078, ex=-2279, p=28, mid=908, mad=1019
+----------------------------------
+Loop no: 186
+Number of obstacles: 1
+o[0]: mix=-917, max=-756, miy=415, may=532, sx=-2043, ex=-2239, p=26, mid=888, mad=1024
+----------------------------------
+Loop no: 187
+Number of obstacles: 1
+o[0]: mix=-840, max=-714, miy=443, may=557, sx=-1970, ex=-2190, p=27, mid=865, mad=959
+----------------------------------
+Loop no: 188
+Number of obstacles: 1
+o[0]: mix=-850, max=-718, miy=477, may=642, sx=-1862, ex=-2136, p=31, mid=847, mad=995
+----------------------------------
+Loop no: 189
+Number of obstacles: 1
+o[0]: mix=-784, max=-654, miy=506, may=678, sx=-1734, ex=-2070, p=35, mid=839, mad=947
+----------------------------------
+Loop no: 190
+Number of obstacles: 1
+o[0]: mix=-769, max=-622, miy=524, may=703, sx=-1656, ex=-1998, p=34, mid=828, mad=963
+----------------------------------
+Loop no: 191
+Number of obstacles: 1
+o[0]: mix=-698, max=-604, miy=539, may=718, sx=-1609, ex=-1961, p=34, mid=823, mad=939
+----------------------------------
+Loop no: 192
+Number of obstacles: 1
+o[0]: mix=-733, max=-588, miy=533, may=708, sx=-1597, ex=-1961, p=35, mid=810, mad=935
+----------------------------------
+Loop no: 193
+Number of obstacles: 1
+o[0]: mix=-755, max=-590, miy=516, may=701, sx=-1609, ex=-1989, p=37, mid=796, mad=949
+----------------------------------
+Loop no: 194
+Number of obstacles: 2
+o[0]: mix=-731, max=-596, miy=487, may=657, sx=-1678, ex=-2017, p=34, mid=783, mad=907
+o[1]: mix=-555, max=-570, miy=-222, may=-73, sx=-2479, ex=-2321, p=32, mid=547, mad=625
+----------------------------------
+Loop no: 195
+Number of obstacles: 2
+o[0]: mix=-719, max=-598, miy=458, may=644, sx=-1701, ex=-2061, p=37, mid=768, mad=879
+o[1]: mix=-552, max=-563, miy=-240, may=-76, sx=-2477, ex=-2291, p=41, mid=559, mad=603
+----------------------------------
+Loop no: 196
+Number of obstacles: 2
+o[0]: mix=-678, max=-602, miy=426, may=602, sx=-1767, ex=-2095, p=35, mid=745, mad=852
+o[1]: mix=-565, max=-603, miy=-202, may=-78, sx=-2479, ex=-2353, p=36, mid=568, mad=609
+----------------------------------
+Loop no: 197
+Number of obstacles: 2
+o[0]: mix=-707, max=-602, miy=401, may=580, sx=-1800, ex=-2144, p=38, mid=730, mad=837
+o[1]: mix=-577, max=-603, miy=-183, may=-59, sx=-2487, ex=-2383, p=35, mid=573, mad=606
+----------------------------------
+Loop no: 198
+Number of obstacles: 2
+o[0]: mix=-734, max=-610, miy=383, may=566, sx=-1831, ex=-2167, p=38, mid=716, mad=847
+o[1]: mix=-568, max=-601, miy=-195, may=-81, sx=-2477, ex=-2364, p=33, mid=574, mad=607
+----------------------------------
+Loop no: 199
+Number of obstacles: 2
+o[0]: mix=-736, max=-616, miy=373, may=552, sx=-1862, ex=-2182, p=37, mid=698, mad=843
+o[1]: mix=-551, max=-588, miy=-248, may=-120, sx=-2448, ex=-2279, p=37, mid=577, mad=605
+----------------------------------
+Loop no: 200
+Number of obstacles: 2
+o[0]: mix=-750, max=-613, miy=371, may=562, sx=-1842, ex=-2190, p=40, mid=702, mad=857
+o[1]: mix=-555, max=-556, miy=-305, may=-186, sx=-2368, ex=-2190, p=30, mid=565, mad=634
+----------------------------------
+Loop no: 201
+Number of obstacles: 1
+o[0]: mix=-658, max=-600, miy=379, may=543, sx=-1852, ex=-2159, p=35, mid=702, mad=810
+----------------------------------
+Loop no: 202
+Number of obstacles: 1
+o[0]: mix=-740, max=-565, miy=386, may=519, sx=-1842, ex=-2175, p=38, mid=698, mad=851
+----------------------------------
+Loop no: 203
+Number of obstacles: 1
+o[0]: mix=-675, max=-612, miy=392, may=583, sx=-1810, ex=-2144, p=37, mid=697, mad=846
+----------------------------------
+Loop no: 204
+Number of obstacles: 1
+o[0]: mix=-635, max=-583, miy=395, may=569, sx=-1789, ex=-2120, p=36, mid=686, mad=815
+----------------------------------
+Loop no: 205
+Number of obstacles: 1
+o[0]: mix=-715, max=-558, miy=392, may=579, sx=-1734, ex=-2136, p=43, mid=681, mad=837
+----------------------------------
+Loop no: 206
+Number of obstacles: 1
+o[0]: mix=-663, max=-528, miy=394, may=575, sx=-1690, ex=-2112, p=44, mid=674, mad=785
+----------------------------------
+Loop no: 207
+Number of obstacles: 1
+o[0]: mix=-639, max=-500, miy=412, may=558, sx=-1667, ex=-2061, p=40, mid=679, mad=776
+----------------------------------
+Loop no: 208
+Number of obstacles: 1
+o[0]: mix=-597, max=-519, miy=426, may=625, sx=-1597, ex=-2035, p=43, mid=684, mad=813
+----------------------------------
+Loop no: 209
+Number of obstacles: 1
+o[0]: mix=-612, max=-479, miy=448, may=598, sx=-1562, ex=-2017, p=44, mid=694, mad=767
+----------------------------------
+Loop no: 210
+Number of obstacles: 1
+o[0]: mix=-648, max=-512, miy=475, may=640, sx=-1562, ex=-2008, p=41, mid=728, mad=823
+----------------------------------
+Loop no: 211
+Number of obstacles: 1
+o[0]: mix=-687, max=-548, miy=493, may=668, sx=-1585, ex=-2017, p=42, mid=768, mad=865
+----------------------------------
+Loop no: 212
+Number of obstacles: 1
+o[0]: mix=-732, max=-606, miy=502, may=686, sx=-1656, ex=-2052, p=40, mid=820, mad=916
+----------------------------------
+Loop no: 213
+Number of obstacles: 1
+o[0]: mix=-797, max=-681, miy=517, may=690, sx=-1756, ex=-2087, p=33, mid=880, mad=970
+----------------------------------
+Loop no: 214
+Number of obstacles: 1
+o[0]: mix=-844, max=-813, miy=527, may=755, sx=-1831, ex=-2120, p=25, mid=953, mad=1110
+----------------------------------
+Loop no: 215
+Number of obstacles: 2
+o[0]: mix=-822, max=-836, miy=666, may=703, sx=-1912, ex=-1942, p=4, mid=1059, mad=1093
+o[1]: mix=-927, max=-847, miy=539, may=628, sx=-2008, ex=-2152, p=15, mid=1011, mad=1077
+----------------------------------
+Loop no: 216
+Number of obstacles: 1
+o[0]: mix=-957, max=-877, miy=527, may=693, sx=-1961, ex=-2190, p=20, mid=1052, mad=1118
+----------------------------------
+Loop no: 217
+Number of obstacles: 2
+o[0]: mix=-969, max=-945, miy=553, may=692, sx=-2017, ex=-2167, p=16, mid=1090, mad=1172
+o[1]: mix=-1005, max=-999, miy=506, may=518, sx=-2219, ex=-2233, p=3, mid=1126, mad=1126
+----------------------------------
+Loop no: 218
+Number of obstacles: 1
+o[0]: mix=-1058, max=-979, miy=476, may=628, sx=-2103, ex=-2279, p=19, mid=1097, mad=1164
+----------------------------------
+Loop no: 219
+Number of obstacles: 2
+o[0]: mix=-1074, max=-1045, miy=535, may=592, sx=-2175, ex=-2233, p=7, mid=1177, mad=1203
+o[1]: mix=-1111, max=-1065, miy=440, may=464, sx=-2291, ex=-2321, p=6, mid=1154, mad=1197
+----------------------------------
+Loop no: 220
+Number of obstacles: 1
+o[0]: mix=-1112, max=-1121, miy=413, may=547, sx=-2246, ex=-2343, p=9, mid=1166, mad=1248
+----------------------------------
+Loop no: 221
+Number of obstacles: 1
+o[0]: mix=-1184, max=-1179, miy=343, may=357, sx=-2392, ex=-2401, p=3, mid=1233, mad=1233
+----------------------------------
+Loop no: 222
+Number of obstacles: 1
+o[0]: mix=-1226, max=-1221, miy=380, may=395, sx=-2378, ex=-2387, p=3, mid=1284, mad=1284
+----------------------------------
+Loop no: 223
+Number of obstacles: 1
+o[0]: mix=-1228, max=-1189, miy=244, may=259, sx=-2442, ex=-2451, p=4, mid=1217, mad=1253
+----------------------------------
+Loop no: 224
+Number of obstacles: 1
+o[0]: mix=-1258, max=-1254, miy=194, may=217, sx=-2463, ex=-2470, p=4, mid=1236, mad=1273
+----------------------------------
+Loop no: 225
+Number of obstacles: 1
+o[0]: mix=-1259, max=-1237, miy=61, may=144, sx=-2483, ex=-2496, p=12, mid=1243, mad=1274
+----------------------------------
+Loop no: 226
+Number of obstacles: 0
+----------------------------------
+Loop no: 227
+Number of obstacles: 0
+----------------------------------
+Loop no: 228
+Number of obstacles: 0
+----------------------------------
+Loop no: 229
+Number of obstacles: 0
+----------------------------------
+Loop no: 230
+Number of obstacles: 1
+o[0]: mix=-1269, max=-1250, miy=-309, may=-280, sx=-2439, ex=-2428, p=4, mid=1282, mad=1307
+----------------------------------
+Loop no: 231
+Number of obstacles: 1
+o[0]: mix=-1250, max=-1252, miy=-362, may=-354, sx=-2405, ex=-2401, p=2, mid=1302, mad=1302
+----------------------------------
+Loop no: 232
+Number of obstacles: 0
+----------------------------------
+Loop no: 233
+Number of obstacles: 0
+----------------------------------
+Loop no: 234
+Number of obstacles: 0
+----------------------------------
+Loop no: 235
+Number of obstacles: 0
+----------------------------------
+Loop no: 236
+Number of obstacles: 0
+----------------------------------
+Loop no: 237
+Number of obstacles: 0
+----------------------------------
+Loop no: 238
+Number of obstacles: 0
+----------------------------------
+Loop no: 239
+Number of obstacles: 0
+----------------------------------
+Loop no: 240
+Number of obstacles: 0
+----------------------------------
+Loop no: 241
+Number of obstacles: 0
+----------------------------------
+Loop no: 242
+Number of obstacles: 0
+----------------------------------
+Loop no: 243
+Number of obstacles: 0
+----------------------------------
+Loop no: 244
+Number of obstacles: 0
+----------------------------------
+Loop no: 245
+Number of obstacles: 0
+----------------------------------
+Loop no: 246
+Number of obstacles: 0
+----------------------------------
+Loop no: 247
+Number of obstacles: 0
+----------------------------------
+Loop no: 248
+Number of obstacles: 0
+----------------------------------
+Loop no: 249
+Number of obstacles: 0
+----------------------------------
+Loop no: 250
+Number of obstacles: 0
+----------------------------------
+Loop no: 251
+Number of obstacles: 0
+----------------------------------
+Loop no: 252
+Number of obstacles: 0
+----------------------------------
+Loop no: 253
+Number of obstacles: 0
+----------------------------------
+Loop no: 254
+Number of obstacles: 0
+----------------------------------
+Loop no: 255
+Number of obstacles: 0
+----------------------------------
+Loop no: 256
+Number of obstacles: 0
+----------------------------------
+Loop no: 257
+Number of obstacles: 0
+----------------------------------
+Loop no: 258
+Number of obstacles: 0
+----------------------------------
+Loop no: 259
+Number of obstacles: 0
+----------------------------------
+Loop no: 260
+Number of obstacles: 0
+----------------------------------
+Loop no: 261
+Number of obstacles: 0
+----------------------------------
+Loop no: 262
+Number of obstacles: 0
+----------------------------------
+Loop no: 263
+Number of obstacles: 0
+----------------------------------
+Loop no: 264
+Number of obstacles: 0
+----------------------------------
+Loop no: 265
+Number of obstacles: 0
+----------------------------------
+Loop no: 266
+Number of obstacles: 0
+----------------------------------
+Loop no: 267
+Number of obstacles: 0
+----------------------------------
+Loop no: 268
+Number of obstacles: 0
+----------------------------------
+Loop no: 269
+Number of obstacles: 0
+----------------------------------
+Loop no: 270
+Number of obstacles: 0
+----------------------------------
+Loop no: 271
+Number of obstacles: 0
+----------------------------------
+Loop no: 272
+Number of obstacles: 0
+----------------------------------
+Loop no: 273
+Number of obstacles: 0
+----------------------------------
+Loop no: 274
+Number of obstacles: 0
+----------------------------------
+Loop no: 275
+Number of obstacles: 0
+----------------------------------
+Loop no: 276
+Number of obstacles: 0
+----------------------------------
+Loop no: 277
+Number of obstacles: 0
+----------------------------------
+Loop no: 278
+Number of obstacles: 0
+----------------------------------
+Loop no: 279
+Number of obstacles: 0
+----------------------------------
+Loop no: 280
+Number of obstacles: 0
+----------------------------------
+Loop no: 281
+Number of obstacles: 0
+----------------------------------
+Loop no: 282
+Number of obstacles: 0
+----------------------------------
+Loop no: 283
+Number of obstacles: 0
+----------------------------------
+Loop no: 284
+Number of obstacles: 0
+----------------------------------
+Loop no: 285
+Number of obstacles: 0
+----------------------------------
+... logging to /home/vinh/.ros/log/8bcf9fa8-8f3b-11e5-a4b2-74d435184fd4/roslaunch-vinh-B85M-D3H-21220.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/vinh/catkin_ws/src/objecttrack/launch/objecttrack.launch
+[1mstarted roslaunch server http://vinh-B85M-D3H:59620/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /ch/objectTracking/port: /dev/ttyACM0
+ * /ch/objectTracking/pwm_step: 20
+ * /ch/objectTracking/start_pwm: 40
+ * /rosdistro: indigo
+ * /rosversion: 1.11.13
+
+NODES
+  /ch/
+    objectTracking (objecttrack/objecttrack)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/vinh/catkin_ws/src/objecttrack/launch/objecttrack.launch http://localhost:11311
+core service [/rosout] found
+[1mprocess[ch/objectTracking-1]: started with pid [21238][0m
+[ch/objectTracking-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

@@ -1,0 +1,7 @@
+<launch>
+        <node pkg="peoplerecorder" type="peoplerecorder" name="peopleRecorder" output="screen">
+            <param name="start_pwm" value="40" type="int"/>
+            <param name="pwm_step" value="20" type="int"/>
+            <param name="port" type="str" value="/dev/ttyACM0"/>
+        </node>
+</launch>
